@@ -23,4 +23,5 @@ Your task is to make it pass. Adapt the code to pass the test and commit your ch
 Read the tests to know what is expected of the system in the 'happy' scenario as well as 'error' scenarios (when the sensor failed to sense).
 Such tests make data-assumptions explicit and smoothen the flow of downstream MLops. You are welcome to add more tests to flesh out more assumptions.
 
-Enjoy :)
+Enjoy :)![Screenshot 2021-12-19 195947](https://user-images.githubusercontent.com/67197988/146678537-7ed4b83b-cb32-4a96-b314-5cd0b6e88f77.jpg)
+
